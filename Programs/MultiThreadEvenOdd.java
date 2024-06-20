@@ -1,4 +1,4 @@
-package LocalRepo;
+package Java.Programs;
 
 public class MultiThreadEvenOdd {
     

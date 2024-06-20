@@ -1,4 +1,4 @@
-package Java;
+package Java.Programs;
 
 public class PushZerosToLast {
     public static void main(String args[]){

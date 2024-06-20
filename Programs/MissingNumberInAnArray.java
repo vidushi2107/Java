@@ -1,4 +1,4 @@
-package Java;
+package Java.Programs;
 public class MissingNumberInAnArray {
     public static void main(String[] args){
         int biggest;

@@ -1,4 +1,4 @@
-package Java;
+package Java.Programs;
 public class Swap2StringVariableWithoutTemp {
 
     public static void main(String[] args) {
