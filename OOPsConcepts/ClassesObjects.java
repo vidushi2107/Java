@@ -65,6 +65,12 @@ package Java.OOPsConcepts;
 
 // *Function overloading -> Compile Time Polymorphism -> Different Functions with same name but distinct arguement format
 
+// some differentiating factor needs to be there :
+//  1. return type should be different
+//  2. if return type= same, Then type of parameters should be different 
+//  3.  if return type= same and type of parameters= same , Then no. of arguements should be different
+
+
 public void printInfo(String name){
     System.out.println(name);
 }
